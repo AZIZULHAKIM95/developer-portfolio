@@ -8,9 +8,7 @@ h1{
 .color{
     color: chocolate;
 }
-section{
-    display: flex;
-}
+
 .coma{
     width: 50%;
     padding-left: 2%;
@@ -30,10 +28,14 @@ section{
 .banner{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+    display: flex;
 }
 .bond{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
-
+    display: flex;
+}
+.bonded{
+    display: flex;
 }
